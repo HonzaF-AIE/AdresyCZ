@@ -6,7 +6,11 @@ Pro více informací navštivte:[CC BY 4.0](https://creativecommons.org/licenses
 
 Poznámka:
 Původní data byla stažena ve formátu geojson. Dále byla převedena do csv pomocí Pythonu 3.13 a knihovny pandas 2.3
+
+
+
 ----------------------------------------------
+
 This data is made available under the Creative Commons Attribution 4.0 International License (CC BY 4.0) by [Portál o datech](https://data.gov.cz)..
 You are free to share, copy, distribute, and adapt the data for any purpose, even commercially,
 as long as you give appropriate credit, provide a link to the license, and indicate if changes were made.
