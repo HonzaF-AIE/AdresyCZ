@@ -11,7 +11,7 @@ This data is made available under the Creative Commons Attribution 4.0 Internati
 You are free to share, copy, distribute, and adapt the data for any purpose, even commercially,
 as long as you give appropriate credit, provide a link to the license, and indicate if changes were made.
 Source: [Adresní body (RSO)](https://data.gov.cz/datov%C3%A1-sada?iri=https%3A%2F%2Fdata.gov.cz%2Fzdroj%2Fdatov%C3%A9-sady%2F00025593%2F048c05b58517e1922afe67a80eb94e04)
-For more information, visit: (CC BY 4.0)[https://creativecommons.org/licenses/by/4.0/]
+For more information, visit: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 Notes:
 The original data were downloaded in geojson format. Then it was formated into csv using python 3.13 and pandas 2.3
