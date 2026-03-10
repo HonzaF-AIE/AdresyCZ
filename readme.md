@@ -5,7 +5,7 @@ Zdroj dat: [Adresní body (RSO)](https://data.gov.cz/datov%C3%A1-sada?iri=https%
 Pro více informací navštivte:[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 Poznámka:
-Původní data byla stažena ve formátu geojson. Dále byla převedena do csv pomocí Pythonu 3.13 a knihovny pandas 2.3
+Původní data byla stažena ve formátu geojson. Dále byla převedena do csv pomocí Pythonu 3.13 a knihovny pandas 2.3. Data byla rozdělena dle jednotlivých obcí tak, aby v každém souboru byla jedna obec se všemi adresními body indentifikovatelnými dle: číslo popisné, číslo domu, název ulice, název obce, název části, cuzkbud_id, zeměpisné souřadnice ve formátu zeměpisná šířka, délka (převedeny z původních S-JTSK (Systém Jednotné Trigonometrické Sítě Katastrální). Ostatní údaje byly odstraněny.
 
 
 
@@ -18,4 +18,4 @@ Source: [Adresní body (RSO)](https://data.gov.cz/datov%C3%A1-sada?iri=https%3A%
 For more information, visit: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 Note:
-The original data were downloaded in geojson format. Then it was formated into csv using python 3.13 and pandas 2.3
+The original data were downloaded in geojson format. Then it was formated into csv using python 3.13 and pandas 2.3. The data were divided by individual municipalities so that each file contains one municipality with all address points identifiable by the following attributes: building registration number, house number, street name, municipality name, district (local part) name, cuzkbud_id, and geographic coordinates in the format latitude and longitude (converted from the original S-JTSK – Unified Trigonometric Cadastral Network System). The rest of the featuers was removed. 
